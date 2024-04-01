@@ -1,2 +1,2 @@
 # selenium.py
-Automacao de testes web com selenium webdriver 
+Automação realizada durante o curso de "Automação de testes Web com Selenium WebDriver e Python".
